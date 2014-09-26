@@ -1,7 +1,7 @@
 Crittercism-Ducksboard
 ======================
 
-This serves as a sample proof of concept to show just some of the many things the Crittercism API can do when combined with another BI tool. A screenshot of the dashboard can be seen here: [Imgur](http://i.imgur.com/BK6bxH1.png)
+This serves as a sample proof of concept to show just some of the many things the Crittercism API can do when combined with another BI tool. A screenshot of the dashboard can be seen here: [Click Me!](http://i.imgur.com/BK6bxH1.png)
 
 This script utilizes the unirest library http://unirest.io/python.html.
 
@@ -10,6 +10,6 @@ Please note: widgets/charts/graphs will first need to be generated via the Ducks
 
 Upcoming Fixes
 ======================
-Markup : * Dynamic generation of Crittercism Access Token upon expiration.
-Markup : * Adjust code to populate past data, currently data starts from the first day this script is run, meaning it can take some days/weeks for certain charts to fill up.
-Markup : * Possibly add widget/chart/graph creation as a part of this script, so that you never need to manually create a new widget unless need be.
+* Dynamic generation of Crittercism Access Token upon expiration.
+* Adjust code to populate past data, currently data starts from the first day this script is run, meaning it can take some days/weeks for certain charts to fill up.
+* Possibly add widget/chart/graph creation as a part of this script, so that you never need to manually create a new widget unless need be.
