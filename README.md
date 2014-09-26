@@ -10,7 +10,8 @@ Please note: widgets/charts/graphs will first need to be generated via the Ducks
 
 TODO List:
 ======================
-* Fix/refine my Python code.
+* Refine Python code.
+* Switch to requests library from unirest/urllib2.
 * Dynamic generation of Crittercism Access Token upon expiration.
 * Adjust code to populate past data, currently data starts from the first day this script is run, meaning it can take some days/weeks for certain charts to fill up.
 * Possibly add widget/chart/graph creation as a part of this script, so that you never need to manually create a new widget unless need be.
