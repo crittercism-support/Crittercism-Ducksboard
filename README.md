@@ -1,11 +1,11 @@
-Crittercism-Ducksboard
+Crittercism-Ducksboard Integration
 ======================
 
-This serves as a sample proof of concept to show just some of the many things the Crittercism API can do when combined with another BI tool. A screenshot of the dashboard can be seen here: [Click Me!](http://i.imgur.com/BK6bxH1.png)
+This serves as a sample proof of concept to show some of the many things the Crittercism API can do when combined with another BI tool. A screenshot of the dashboard can be seen here: [Click Me!](http://i.imgur.com/BK6bxH1.png)
 
-This script utilizes the unirest library http://unirest.io/python.html.
+This script utilizes the unirest library http://unirest.io/python.html. 
 
-Please note: widgets/charts/graphs will first need to be generated via the Ducksboard portal, then you can push data using this script to each widget/chart/graph. Within the script you'll see notes on what type of widget/chart/graph will need to be generated.
+Please note: widgets/charts/graphs will first need to be generated via the Ducksboard portal, then you can push data using this script to each widget/chart/graph. Within the script you'll see notes on what type of widget/chart/graph will need to be generated ahead of time. Please e-mail me at ajohal@crittercism.com if you have any questions.
 
 
 Upcoming Fixes
