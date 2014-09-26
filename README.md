@@ -1,7 +1,7 @@
 Crittercism-Ducksboard Integration
 ======================
 
-This serves as a sample proof of concept to show some of the many things the Crittercism API can do when combined with another BI tool. A screenshot of the dashboard can be seen here: [Click Me!](http://i.imgur.com/BK6bxH1.png)
+This serves as a sample proof of concept to show some of the things the Crittercism API can do when combined with another BI tool. A screenshot of the dashboard can be seen here: [Click Me!](http://i.imgur.com/BK6bxH1.png)
 
 This script utilizes the unirest library http://unirest.io/python.html. 
 
